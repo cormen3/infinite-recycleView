@@ -1,0 +1,13 @@
+ext {
+    android = [
+            buildToolsVersion: "28.0.3",
+            minSdkVersion    : 16,
+            targetSdkVersion : 28,
+            compileSdkVersion: 28
+    ]
+
+    endpoints = [
+            n26_fake_staging_endpoint_url = "\"https://www.definitelynotn26-staging.de/api/\"",
+            n26_fake_live_endpoint_url = "\"https://www.definitelynotn26-live.de/api/\""
+    ]
+}

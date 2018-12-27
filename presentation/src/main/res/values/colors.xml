@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBluePrimary">#46BFEA</color>
+    <color name="colorBluePrimaryDark">#41acd2</color>
+    <color name="colorBlueLight">#D3EDF3</color>
+    <color name="colorBlueLightSecondary">#92D2E9</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorRealBlue">#2d2d96</color>
+    <color name="colorRealGreen">#8DC63F</color>
+    <color name="colorRealGreenDarker">#608f19</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="indigo">#FF4081</color>
+    <color name="pink">#FF4081</color>
+    <color name="error">#bd001b</color>
+    <color name="colorBlack">#000000</color>
+    <color name="duskYellow">#d1c734</color>
+    <color name="lightGrey">#D3D3D3</color>
+    <color name="lighGreyOne">#ECECEC</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="black_overlay_light">#3d000000</color>
+    <color name="black_overlay_light_transparent">#1b131313</color>
+    <color name="black_overlay_transparent_light">#1b807e7e</color>
+    <color name="address_list_background_color">#f5f5f5</color>
+    <color name="city_doalog_header_color">#D3D3D3</color>
+    <color name="color_gray_text_hint">#9E9E9E</color>
+    <color name="color_gray_light">#b6b5b5</color>
+    <color name="color_gray_text">#c54d4b4b</color>
+    <color name="color_gray_text_project_detail">#828282</color>
+    <color name="color_gray_banner_background">#ececec</color>
+    <color name="toolbar_color">#f2f2f2</color>
+</resources>

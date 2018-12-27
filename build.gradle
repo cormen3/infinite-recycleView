@@ -1,0 +1,17 @@
+apply from: 'buildsystem/dependencies.gradle'
+apply from: 'buildsystem/configurations.gradle'
+buildscript {
+    apply from: 'buildsystem/versions.gradle'
+    ext.kotlin_version = '1.2.71'
+    addRepos(repositories)
+    dependencies {
+        classpath deps.android_gradle_plugin
+        classpath deps.kotlin.plugin
+        classpath deps.maven_gradle_plugin_plugin
+        classpath deps.gradle_bintray_plugin
+    }
+}
+
+allprojects { addRepos(repositories)}
+
+task clean(type: Delete) {delete rootProject.buildDir}
