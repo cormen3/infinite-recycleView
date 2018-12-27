@@ -8,16 +8,16 @@ The app has following modules:
 
 - presentation: contains: 
 
-di: Dependency providing classes using Dagger2.
+      di: Dependency providing classes using Dagger2.
 
-ui: View classes along with their corresponding ViewModel.
+      ui: View classes along with their corresponding ViewModel.
 
-utility: Utility classes.
-
-
+      utility: Utility classes.
 
 
-Library reference resources:
+
+
+## Library reference resources:
 
 1- RxJava2: https://github.com/amitshekhariitbhu/RxJava2-Android-Samples
 
@@ -30,7 +30,7 @@ Library reference resources:
 
 
 
-License
+## License
 
    Copyright (C) 2018 MINDORKS NEXTGEN PRIVATE LIMITED
    
