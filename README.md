@@ -15,6 +15,8 @@ ui: View classes along with their corresponding ViewModel.
 utility: Utility classes.
 
 
+
+
 Library reference resources:
 
 1- RxJava2: https://github.com/amitshekhariitbhu/RxJava2-Android-Samples
