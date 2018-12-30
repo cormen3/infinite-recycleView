@@ -23,7 +23,7 @@ The app has following modules:
      modules should interact with one another after designing the app:
      
      
-https://developer.android.com/topic/libraries/architecture/images/final-architecture.png
+![Screenshot](final-architecture.png)
      
 
 ## Library reference resources:
