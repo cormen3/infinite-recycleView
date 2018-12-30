@@ -18,9 +18,7 @@ The app has following modules:
 
 
 ## Overview
-     To start, consider the following diagram, which shows how all the
-            
-     modules should interact with one another after designing the app:
+     consider the following diagram, which shows how all the  modules  interact with one another after designing the app:
      
      
 ![Screenshot](final-architecture.png)
