@@ -18,7 +18,9 @@ The app has following modules:
 
 
 ## Overview
-            To start, consider the following diagram, which shows how all the modules should interact with one another after designing the app:
+     To start, consider the following diagram, which shows how all the
+            
+     modules should interact with one another after designing the app:
 
 ## Library reference resources:
 
