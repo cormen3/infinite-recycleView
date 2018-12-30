@@ -21,6 +21,10 @@ The app has following modules:
      To start, consider the following diagram, which shows how all the
             
      modules should interact with one another after designing the app:
+     
+     
+     ![alt text](https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
+     
 
 ## Library reference resources:
 
