@@ -13,6 +13,9 @@ The app has following modules:
       ui: View classes along with their corresponding ViewModel.
 
       utility: Utility classes.
+      
+      ## Overview
+            To start, consider the following diagram, which shows how all the modules should interact with one another after designing the app:
 
 
 
